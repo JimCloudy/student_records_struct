@@ -1,0 +1,8 @@
+C:\Users\brent\Documents\c# exercises\student records\student records\bin\Debug\student records.exe.config
+C:\Users\brent\Documents\c# exercises\student records\student records\bin\Debug\student records.exe
+C:\Users\brent\Documents\c# exercises\student records\student records\bin\Debug\student records.pdb
+C:\Users\brent\Documents\c# exercises\student records\student records\obj\Debug\student records.exe
+C:\Users\brent\Documents\c# exercises\student records\student records\obj\Debug\student records.pdb
+C:\Users\brent\Documents\c#_exercises\student_records_struct\student records\bin\Debug\student records.exe.config
+C:\Users\brent\Documents\c#_exercises\student_records_struct\student records\obj\Debug\student records.exe
+C:\Users\brent\Documents\c#_exercises\student_records_struct\student records\obj\Debug\student records.pdb
